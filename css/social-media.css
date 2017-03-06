@@ -1,0 +1,121 @@
+.facebook, .facebook.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #3b5b98;
+    color: #3b5b98;
+}
+.facebook.btn-floating i {
+    color: #3b5b98;
+}
+
+.google-plus, .google-plus.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #e64a55;
+    color: #e64a55;
+}
+.google-plus.btn-floating i {
+    color: #e64a55;
+}
+
+.twitter, .twitter.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #60cbef;
+    color: #60cbef;
+}
+.twitter.btn-floating i {
+    color: #60cbef;
+}
+
+.rss {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #f05223;
+    color: #f05223;
+}
+.youtube, .youtube.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #ca2128;
+    color: #ca2128;
+}
+.youtube.btn-floating i {
+    color: #ca2128;
+}
+.pinterest, .pinterest.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #850d16;
+    color: #850d16;
+}
+.pinterest.btn-floating i {
+    color: #850d16;
+}
+
+.instagram, .instagram.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #356596;
+    color: #356596;
+}
+.instagram.btn-floating i {
+    color: #356596;
+}
+
+.reddit, .reddit.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #ff4500;
+    color: #ff4500;
+}
+.reddit.btn-floating i {
+    color: #ff4500;
+}
+
+.linkedin, .linkedin.btn-floating {
+    background-color: #f0f0f0;
+    box-shadow: inset 0 0 -1px #0077b5;
+    color: #0077b5;
+}
+.linkedin.btn-floating i {
+    color: #0077b5;
+}
+
+.facebook:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #5a8be6;
+    color: #5a8be6;
+}
+.google-plus:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #f78c94;
+    color: #f78c94;
+}
+.twitter:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #9fe7ff;
+    color: #9fe7ff;
+}
+.rss:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #f05223;
+    color: #f05223;
+}
+.youtube:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #ca2128;
+    color: #ca2128;
+}
+.pinterest:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #e51728;
+    color: #e51728;
+}
+.instagram:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #356596;
+    color: #356596;
+}
+.reddit:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #ff7c4b;
+    color: #ff7c4b;
+}
+.linkedin:hover {
+    background-color: #ffffff;
+    box-shadow: inset 0 0 -1px #009df2;
+    color: #009df2;
+}
